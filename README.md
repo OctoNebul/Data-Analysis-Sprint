@@ -1,4 +1,4 @@
-**Le Wagon Workshop | Online | April 2023 **
+**Le Wagon Workshop | Online | April 2023**
 
 ●	Predicting customer churn rate with 77% accuracy by implementing a K nearest neighbour classification model.
 
