@@ -1,5 +1,5 @@
-**Le Wagon Workshop | Online | April 2023**
+**Salary Prediction | Python (Scikit-learn, Pandas, Seaborn) | April 2023**
 
-●	Predicting customer churn rate with 77% accuracy by implementing a K nearest neighbour classification model.
+●	Identified the age variable as having the highest pay rate of +9.5k by interpreting salary variations.
 
-●	Discovered that about 75% do not churn when analysing consumer behaviour dataset.
+●	Scored a 44% model precision for estimating workers’ salaries through implementing Linear regression.
